@@ -1,680 +1,680 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="香港台",凤凰中文HD
+#EXTINF:-1  group-title="香港台",凤凰中文HD
 #EXTVLCOPT:program=213
 http://192.168.31.72:8001/1:0:1:D5:4:1:565B07F:0:0:0::凤凰中文HD
-#EXTINF:-1 group-title="香港台",凤凰资讯HD
+#EXTINF:-1  group-title="香港台",凤凰资讯HD
 #EXTVLCOPT:program=212
 http://192.168.31.72:8001/1:0:1:D4:4:1:565B07F:0:0:0::凤凰资讯HD
-#EXTINF:-1,东森新闻HD
+#EXTINF:-1  group-title="香港台",东森新闻HD
 #EXTVLCOPT:program=704
 http://192.168.31.72:8001/1:0:1:2C0:A:1:565B174:0:0:0::东森新闻HD
-#EXTINF:-1,东森综合HD
+#EXTINF:-1  group-title="香港台",东森综合HD
 #EXTVLCOPT:program=702
 http://192.168.31.72:8001/1:0:1:2BE:A:1:565B174:0:0:0::东森综合HD
-#EXTINF:-1,东森戏剧HD
+#EXTINF:-1  group-title="香港台",东森戏剧HD
 #EXTVLCOPT:program=703
 http://192.168.31.72:8001/1:0:1:2BF:A:1:565B174:0:0:0::东森戏剧HD
-#EXTINF:-1,东森财经新闻
+#EXTINF:-1  group-title="香港台",东森财经新闻
 #EXTVLCOPT:program=705
 http://192.168.31.72:8001/1:0:1:2C1:A:1:565B174:0:0:0::东森财经新闻
-#EXTINF:-1,东森电影HD
+#EXTINF:-1  group-title="香港台",东森电影HD
 #EXTVLCOPT:program=706
 http://192.168.31.72:8001/1:0:1:2C2:A:1:565B174:0:0:0::东森电影HD
-#EXTINF:-1,东森洋片HD
+#EXTINF:-1  group-title="香港台",东森洋片HD
 #EXTVLCOPT:program=707
 http://192.168.31.72:8001/1:0:1:2C3:A:1:565B174:0:0:0::东森洋片HD
-#EXTINF:-1,东森超视HD
+#EXTINF:-1  group-title="香港台",东森超视HD
 #EXTVLCOPT:program=708
 http://192.168.31.72:8001/1:0:1:2C4:A:1:565B174:0:0:0::东森超视HD
-#EXTINF:-1,东森亚洲HD
+#EXTINF:-1  group-title="香港台",东森亚洲HD
 #EXTVLCOPT:program=709
 http://192.168.31.72:8001/1:0:1:2C5:A:1:565B174:0:0:0::东森亚洲HD
-#EXTINF:-1,东森幼幼HD（国际版）
+#EXTINF:-1  group-title="香港台",东森幼幼HD（国际版）
 #EXTVLCOPT:program=701
 http://192.168.31.72:8001/1:0:1:2BD:A:1:565B174:0:0:0::东森幼幼HD（国际版）
-#EXTINF:-1,东森幼幼HD
+#EXTINF:-1  group-title="香港台",东森幼幼HD
 #EXTVLCOPT:program=711
 http://192.168.31.72:8001/1:0:1:2C7:A:1:565B174:0:0:0::东森幼幼HD
-#EXTINF:-1,中天综合HD
+#EXTINF:-1  group-title="香港台",中天综合HD
 #EXTVLCOPT:program=2
 http://192.168.31.72:8001/1:0:1:2:6:1:565B006:0:0:0::中天综合HD
-#EXTINF:-1,中天新闻HD
+#EXTINF:-1  group-title="香港台",中天新闻HD
 #EXTVLCOPT:program=1
 http://192.168.31.72:8001/1:0:1:1:6:1:565B006:0:0:0::中天新闻HD
-#EXTINF:-1,中天娱乐HD
+#EXTINF:-1  group-title="香港台",中天娱乐HD
 #EXTVLCOPT:program=3
 http://192.168.31.72:8001/1:0:1:3:6:1:565B006:0:0:0::中天娱乐HD
-#EXTINF:-1,中天亚洲HD
+#EXTINF:-1  group-title="香港台",中天亚洲HD
 #EXTVLCOPT:program=4
 http://192.168.31.72:8001/1:0:1:4:6:1:565B006:0:0:0::中天亚洲HD
-#EXTINF:-1,八大综合HD
+#EXTINF:-1  group-title="香港台",八大综合HD
 #EXTVLCOPT:program=11
 http://192.168.31.72:8001/1:0:1:B:6:1:565B006:0:0:0::八大综合HD
-#EXTINF:-1,八大第1 HD
+#EXTINF:-1  group-title="香港台",八大第1 HD
 #EXTVLCOPT:program=12
 http://192.168.31.72:8001/1:0:1:C:6:1:565B006:0:0:0::八大第1 HD
-#EXTINF:-1,八大戏剧HD
+#EXTINF:-1  group-title="香港台",八大戏剧HD
 #EXTVLCOPT:program=13
 http://192.168.31.72:8001/1:0:1:D:6:1:565B006:0:0:0::八大戏剧HD
-#EXTINF:-1,八大娱乐HD
+#EXTINF:-1  group-title="香港台",八大娱乐HD
 #EXTVLCOPT:program=14
 http://192.168.31.72:8001/1:0:1:E:6:1:565B006:0:0:0::八大娱乐HD
-#EXTINF:-1,TVB星河HD
+#EXTINF:-1  group-title="香港台",TVB星河HD
 #EXTVLCOPT:program=210
 http://192.168.31.72:8001/1:0:1:D2:4:1:565B07F:0:0:0::TVB星河HD
-#EXTINF:-1,TVB8 HD
+#EXTINF:-1  group-title="香港台",TVB8 HD
 #EXTVLCOPT:program=209
 http://192.168.31.72:8001/1:0:1:D1:4:1:565B07F:0:0:0::TVB8 HD
-#EXTINF:-1,TVBJ HD
+#EXTINF:-1  group-title="香港台",TVBJ HD
 #EXTVLCOPT:program=211
 http://192.168.31.72:8001/1:0:1:D3:4:1:565B07F:0:0:0::TVBJ HD
-#EXTINF:-1,龙祥电影
+#EXTINF:-1  group-title="香港台",龙祥电影
 #EXTVLCOPT:program=608
 http://192.168.31.72:8001/1:0:1:260:5:1:565B0FA:0:0:0::龙祥电影
-#EXTINF:-1,Eleven HD
+#EXTINF:-1  group-title="香港台",Eleven HD
 #EXTVLCOPT:program=15
 http://192.168.31.72:8001/1:0:1:F:6:1:565B006:0:0:0::Eleven HD
-#EXTINF:-1,Boomerang动漫 HD
+#EXTINF:-1  group-title="香港台",Boomerang动漫 HD
 #EXTVLCOPT:program=624
 http://192.168.31.72:8001/1:0:1:270:5:1:565B0FA:0:0:0::Boomerang动漫 HD
-#EXTINF:-1,台视HD
+#EXTINF:-1  group-title="香港台",台视HD
 #EXTVLCOPT:program=601
 http://192.168.31.72:8001/1:0:1:259:5:1:565B0FA:0:0:0::台视HD
-#EXTINF:-1,中视HD
+#EXTINF:-1  group-title="香港台",中视HD
 #EXTVLCOPT:program=602
 http://192.168.31.72:8001/1:0:1:25A:5:1:565B0FA:0:0:0::中视HD
-#EXTINF:-1,华视HD
+#EXTINF:-1  group-title="香港台",华视HD
 #EXTVLCOPT:program=603
 http://192.168.31.72:8001/1:0:1:25B:5:1:565B0FA:0:0:0::华视HD
-#EXTINF:-1,民视HD
+#EXTINF:-1  group-title="香港台",民视HD
 #EXTVLCOPT:program=604
 http://192.168.31.72:8001/1:0:1:25C:5:1:565B0FA:0:0:0::民视HD
-#EXTINF:-1,公视HD
+#EXTINF:-1  group-title="香港台",公视HD
 #EXTVLCOPT:program=605
 http://192.168.31.72:8001/1:0:1:25D:5:1:565B0FA:0:0:0::公视HD
-#EXTINF:-1,公视3HD
+#EXTINF:-1  group-title="香港台",公视3HD
 #EXTVLCOPT:program=606
 http://192.168.31.72:8001/1:0:1:25E:5:1:565B0FA:0:0:0::公视3HD
-#EXTINF:-1,非凡新闻HD
+#EXTINF:-1  group-title="香港台",非凡新闻HD
 #EXTVLCOPT:program=5
 http://192.168.31.72:8001/1:0:1:5:6:1:565B006:0:0:0::非凡新闻HD
-#EXTINF:-1,国兴卫视HD
+#EXTINF:-1  group-title="香港台",国兴卫视HD
 #EXTVLCOPT:program=10
 http://192.168.31.72:8001/1:0:1:A:6:1:565B006:0:0:0::国兴卫视HD
-#EXTINF:-1,Eleven Sports HD
+#EXTINF:-1  group-title="香港台",Eleven Sports HD
 #EXTVLCOPT:program=16
 http://192.168.31.72:8001/1:0:1:10:6:1:565B006:0:0:0::Eleven Sports HD
-#EXTINF:-1,韩国娱乐台HD
+#EXTINF:-1  group-title="香港台",韩国娱乐台HD
 #EXTVLCOPT:program=9
 http://192.168.31.72:8001/1:0:1:9:6:1:565B006:0:0:0::韩国娱乐台HD
-#EXTINF:-1,湖南卫视HD
+#EXTINF:-1  group-title="香港台",湖南卫视HD
 #EXTVLCOPT:program=214
 http://192.168.31.72:8001/1:0:1:D6:4:1:565B07F:0:0:0::湖南卫视HD
-#EXTINF:-1,华纳娱乐HD
+#EXTINF:-1  group-title="香港台",华纳娱乐HD
 #EXTVLCOPT:program=612
 http://192.168.31.72:8001/1:0:1:264:5:1:565B0FA:0:0:0::华纳娱乐HD
-#EXTINF:-1,动物星球HD
+#EXTINF:-1  group-title="香港台",动物星球HD
 #EXTVLCOPT:program=613
 http://192.168.31.72:8001/1:0:1:265:5:1:565B0FA:0:0:0::动物星球HD
-#EXTINF:-1,探索频道HD
+#EXTINF:-1  group-title="香港台",探索频道HD
 #EXTVLCOPT:program=614
 http://192.168.31.72:8001/1:0:1:266:5:1:565B0FA:0:0:0::探索频道HD
-#EXTINF:-1,探索亚洲HD
+#EXTINF:-1  group-title="香港台",探索亚洲HD
 #EXTVLCOPT:program=615
 http://192.168.31.72:8001/1:0:1:267:5:1:565B0FA:0:0:0::探索亚洲HD
-#EXTINF:-1,探索科学HD
+#EXTINF:-1  group-title="香港台",探索科学HD
 #EXTVLCOPT:program=616
 http://192.168.31.72:8001/1:0:1:268:5:1:565B0FA:0:0:0::探索科学HD
-#EXTINF:-1,探索动力DMAX HD
+#EXTINF:-1  group-title="香港台",探索动力DMAX HD
 #EXTVLCOPT:program=617
 http://192.168.31.72:8001/1:0:1:269:5:1:565B0FA:0:0:0::探索动力DMAX HD
-#EXTINF:-1,旅游高清HD
+#EXTINF:-1  group-title="香港台",旅游高清HD
 #EXTVLCOPT:program=619
 http://192.168.31.72:8001/1:0:1:26B:5:1:565B0FA:0:0:0::旅游高清HD
-#EXTINF:-1,Eve HD
+#EXTINF:-1  group-title="香港台",Eve HD
 #EXTVLCOPT:program=618
 http://192.168.31.72:8001/1:0:1:26A:5:1:565B0FA:0:0:0::Eve HD
-#EXTINF:-1,探索旅游生活HD
+#EXTINF:-1  group-title="香港台",探索旅游生活HD
 #EXTVLCOPT:program=620
 http://192.168.31.72:8001/1:0:1:26C:5:1:565B0FA:0:0:0::探索旅游生活HD
-#EXTINF:-1,居家乐生活HD
+#EXTINF:-1  group-title="香港台",居家乐生活HD
 #EXTVLCOPT:program=621
 http://192.168.31.72:8001/1:0:1:26D:5:1:565B0FA:0:0:0::居家乐生活HD
-#EXTINF:-1,亚洲美食HD
+#EXTINF:-1  group-title="香港台",亚洲美食HD
 #EXTVLCOPT:program=622
 http://192.168.31.72:8001/1:0:1:26E:5:1:565B0FA:0:0:0::亚洲美食HD
-#EXTINF:-1,美食网高清HD
+#EXTINF:-1  group-title="香港台",美食网高清HD
 #EXTVLCOPT:program=623
 http://192.168.31.72:8001/1:0:1:26F:5:1:565B0FA:0:0:0::美食网高清HD
-#EXTINF:-1,CCTV-5+体育赛事HD
+#EXTINF:-1  group-title="香港台",CCTV-5+体育赛事HD
 #EXTVLCOPT:program=207
 http://192.168.31.72:8001/1:0:1:CF:4:1:565B07F:0:0:0::CCTV-5+体育赛事HD
-#EXTINF:-1,CCTV-1 HD
+#EXTINF:-1  group-title="香港台",CCTV-1 HD
 #EXTVLCOPT:program=208
 http://192.168.31.72:8001/1:0:1:D0:4:1:565B07F:0:0:0::CCTV-1 HD
-#EXTINF:-1,北京卫视HD
+#EXTINF:-1  group-title="香港台",北京卫视HD
 #EXTVLCOPT:program=218
 http://192.168.31.72:8001/1:0:1:DA:4:1:565B07F:0:0:0::北京卫视HD
-#EXTINF:-1,江苏卫视HD
+#EXTINF:-1  group-title="香港台",江苏卫视HD
 #EXTVLCOPT:program=217
 http://192.168.31.72:8001/1:0:1:D9:4:1:565B07F:0:0:0::江苏卫视HD
-#EXTINF:-1,山东卫视HD
+#EXTINF:-1  group-title="香港台",山东卫视HD
 #EXTVLCOPT:program=220
 http://192.168.31.72:8001/1:0:1:DC:4:1:565B07F:0:0:0::山东卫视HD
-#EXTINF:-1,深圳卫视HD
+#EXTINF:-1  group-title="香港台",深圳卫视HD
 #EXTVLCOPT:program=222
 http://192.168.31.72:8001/1:0:1:DE:4:1:565B07F:0:0:0::深圳卫视HD
-#EXTINF:-1,大爱频道
+#EXTINF:-1  group-title="香港台",大爱频道
 #EXTVLCOPT:program=607
 http://192.168.31.72:8001/1:0:1:25F:5:1:565B0FA:0:0:0::大爱频道
-#EXTINF:-1,浙江卫视
+#EXTINF:-1  group-title="香港台",浙江卫视
 #EXTVLCOPT:program=215
 http://192.168.31.72:8001/1:0:1:D7:4:1:565B07F:0:0:0::浙江卫视
-#EXTINF:-1,东方卫视
+#EXTINF:-1  group-title="香港台",东方卫视
 #EXTVLCOPT:program=216
 http://192.168.31.72:8001/1:0:1:D8:4:1:565B07F:0:0:0::东方卫视
-#EXTINF:-1,ANIMAX动画
+#EXTINF:-1  group-title="香港台",ANIMAX动画
 #EXTVLCOPT:program=7
 http://192.168.31.72:8001/1:0:1:7:6:1:565B006:0:0:0::ANIMAX动画
-#EXTINF:-1,中国电视
+#EXTINF:-1  group-title="香港台",中国电视
 #EXTVLCOPT:program=6
 http://192.168.31.72:8001/1:0:1:6:6:1:565B006:0:0:0::中国电视
-#EXTINF:-1,安徽卫视
+#EXTINF:-1  group-title="香港台",安徽卫视
 #EXTVLCOPT:program=219
 http://192.168.31.72:8001/1:0:1:DB:4:1:565B07F:0:0:0::安徽卫视
-#EXTINF:-1,星空卫视
+#EXTINF:-1  group-title="香港台",星空卫视
 #EXTVLCOPT:program=609
 http://192.168.31.72:8001/1:0:1:261:5:1:565B0FA:0:0:0::星空卫视
-#EXTINF:-1,东森亚洲新闻
+#EXTINF:-1  group-title="香港台",东森亚洲新闻
 #EXTVLCOPT:program=710
 http://192.168.31.72:8001/1:0:1:2C6:A:1:565B174:0:0:0::东森亚洲新闻
-#EXTINF:-1,壹新闻台
+#EXTINF:-1  group-title="香港台",壹新闻台
 #EXTVLCOPT:program=717
 http://192.168.31.72:8001/1:0:1:2CD:A:1:565B174:0:0:0::壹新闻台
-#EXTINF:-1,信大HD
+#EXTINF:-1  group-title="香港台",信大HD
 #EXTVLCOPT:program=719
 http://192.168.31.72:8001/1:0:1:2CF:A:1:565B174:0:0:0::信大HD
-#EXTINF:-1,希望电视台HD
+#EXTINF:-1  group-title="香港台",希望电视台HD
 #EXTVLCOPT:program=722
 http://192.168.31.72:8001/1:0:1:2D2:A:1:565B174:0:0:0::希望电视台HD
-#EXTINF:-1,天良卫视HD
+#EXTINF:-1  group-title="香港台",天良卫视HD
 #EXTVLCOPT:program=720
 http://192.168.31.72:8001/1:0:1:2D0:A:1:565B174:0:0:0::天良卫视HD
-#EXTINF:-1,好消息2台
+#EXTINF:-1  group-title="香港台",好消息2台
 #EXTVLCOPT:program=721
 http://192.168.31.72:8001/1:0:1:2D1:A:1:565B174:0:0:0::好消息2台
-#EXTINF:-1,十方法界
+#EXTINF:-1  group-title="香港台",十方法界
 #EXTVLCOPT:program=723
 http://192.168.31.72:8001/1:0:1:2D3:A:1:565B174:0:0:0::十方法界
-#EXTINF:-1,世界电视台
+#EXTINF:-1  group-title="香港台",世界电视台
 #EXTVLCOPT:program=724
 http://192.168.31.72:8001/1:0:1:2D4:A:1:565B174:0:0:0::世界电视台
-#EXTINF:-1,八大综合
+#EXTINF:-1  group-title="香港台",八大综合
 #EXTVLCOPT:program=725
 http://192.168.31.72:8001/1:0:1:2D5:A:1:565B174:0:0:0::八大综合
-#EXTINF:-1,八大第1台
+#EXTINF:-1  group-title="香港台",八大第1台
 #EXTVLCOPT:program=726
 http://192.168.31.72:8001/1:0:1:2D6:A:1:565B174:0:0:0::八大第1台
-#EXTINF:-1,八大戏剧
+#EXTINF:-1  group-title="香港台",八大戏剧
 #EXTVLCOPT:program=727
 http://192.168.31.72:8001/1:0:1:2D7:A:1:565B174:0:0:0::八大戏剧
-#EXTINF:-1,八大戏剧台
+#EXTINF:-1  group-title="香港台",八大戏剧台
 #EXTVLCOPT:program=728
 http://192.168.31.72:8001/1:0:1:2D8:A:1:565B174:0:0:0::八大戏剧台
-#EXTINF:-1,莲花卫视
+#EXTINF:-1  group-title="香港台",莲花卫视
 #EXTVLCOPT:program=610
 http://192.168.31.72:8001/1:0:1:262:5:1:565B0FA:0:0:0::莲花卫视
-#EXTINF:-1,AXN动作影视
+#EXTINF:-1  group-title="香港台",AXN动作影视
 #EXTVLCOPT:program=611
 http://192.168.31.72:8001/1:0:1:263:5:1:565B0FA:0:0:0::AXN动作影视
-#EXTINF:-1,广西卫视
+#EXTINF:-1  group-title="香港台",广西卫视
 #EXTVLCOPT:program=224
 http://192.168.31.72:8001/1:0:1:E0:4:1:565B07F:0:0:0::广西卫视
-#EXTINF:-1,广东卫视
+#EXTINF:-1  group-title="香港台",广东卫视
 #EXTVLCOPT:program=225
 http://192.168.31.72:8001/1:0:1:E1:4:1:565B07F:0:0:0::广东卫视
-#EXTINF:-1,广东体育
+#EXTINF:-1  group-title="香港台",广东体育
 #EXTVLCOPT:program=226
 http://192.168.31.72:8001/1:0:1:E2:4:1:565B07F:0:0:0::广东体育
-#EXTINF:-1,广东影视
+#EXTINF:-1  group-title="香港台",广东影视
 #EXTVLCOPT:program=227
 http://192.168.31.72:8001/1:0:1:E3:4:1:565B07F:0:0:0::广东影视
-#EXTINF:-1,辽宁卫视
+#EXTINF:-1  group-title="香港台",辽宁卫视
 #EXTVLCOPT:program=221
 http://192.168.31.72:8001/1:0:1:DD:4:1:565B07F:0:0:0::辽宁卫视
-#EXTINF:-1,江西卫视
+#EXTINF:-1  group-title="香港台",江西卫视
 #EXTVLCOPT:program=223
 http://192.168.31.72:8001/1:0:1:DF:4:1:565B07F:0:0:0::江西卫视
-#EXTINF:-1,广东珠江
+#EXTINF:-1  group-title="香港台",广东珠江
 #EXTVLCOPT:program=228
 http://192.168.31.72:8001/1:0:1:E4:4:1:565B07F:0:0:0::广东珠江
-#EXTINF:-1,CCTV-2财经
+#EXTINF:-1  group-title="香港台",CCTV-2财经
 #EXTVLCOPT:program=202
 http://192.168.31.72:8001/1:0:1:CA:4:1:565B07F:0:0:0::CCTV-2财经
-#EXTINF:-1,CCTV-9中文纪录
+#EXTINF:-1  group-title="香港台",CCTV-9中文纪录
 #EXTVLCOPT:program=203
 http://192.168.31.72:8001/1:0:1:CB:4:1:565B07F:0:0:0::CCTV-9中文纪录
-#EXTINF:-1,CCTV-10科教
+#EXTINF:-1  group-title="香港台",CCTV-10科教
 #EXTVLCOPT:program=204
 http://192.168.31.72:8001/1:0:1:CC:4:1:565B07F:0:0:0::CCTV-10科教
-#EXTINF:-1,CCTV-13新闻
+#EXTINF:-1  group-title="香港台",CCTV-13新闻
 #EXTVLCOPT:program=201
 http://192.168.31.72:8001/1:0:1:C9:4:1:565B07F:0:0:0::CCTV-13新闻
-#EXTINF:-1,CCTV-14少儿
+#EXTINF:-1  group-title="香港台",CCTV-14少儿
 #EXTVLCOPT:program=205
 http://192.168.31.72:8001/1:0:1:CD:4:1:565B07F:0:0:0::CCTV-14少儿
-#EXTINF:-1,CCTV-15音乐
+#EXTINF:-1  group-title="香港台",CCTV-15音乐
 #EXTVLCOPT:program=206
 http://192.168.31.72:8001/1:0:1:CE:4:1:565B07F:0:0:0::CCTV-15音乐
-#EXTINF:-1,香港卫视
+#EXTINF:-1  group-title="香港台",香港卫视
 #EXTVLCOPT:program=1
 http://192.168.31.72:8001/1:0:1:1:4:1:565B0B7:0:0:0:
-#EXTINF:-1,VOA WeiShi
+#EXTINF:-1  group-title="香港台",VOA WeiShi
 #EXTVLCOPT:program=1010
 http://192.168.31.72:8001/1:0:1:3F2:1:0:5653097:0:0:0:
-#EXTINF:-1,美国之音
+#EXTINF:-1  group-title="香港台",美国之音
 #EXTVLCOPT:program=1
 http://192.168.31.72:8001/1:0:1:1:22B:3E7:5650000:0:0:0:
-#EXTINF:-1,美国 之音 中文 台
+#EXTINF:-1  group-title="香港台",美国 之音 中文 台
 #EXTVLCOPT:program=1010
 http://192.168.31.72:8001/1:0:1:3F2:1:1:5653094:0:0:0:
-#EXTINF:-1,ANGELTV
+#EXTINF:-1  group-title="香港台",ANGELTV
 #EXTVLCOPT:program=7
 http://192.168.31.72:8001/1:0:1:7:2:1:565B0D3:0:0:0:
-#EXTINF:-1,CMSTV
+#EXTINF:-1  group-title="香港台",CMSTV
 #EXTVLCOPT:program=11
 http://192.168.31.72:8001/1:0:1:B:2:1:565B0D3:0:0:0:
-#EXTINF:-1,GCN TV Korean
+#EXTINF:-1  group-title="香港台",GCN TV Korean
 #EXTVLCOPT:program=4
 http://192.168.31.72:8001/1:0:1:4:2:1:565B0D3:0:0:0:
-#EXTINF:-1,Health TV
+#EXTINF:-1  group-title="香港台",Health TV
 #EXTVLCOPT:program=12
 http://192.168.31.72:8001/1:0:1:C:2:1:565B0D3:0:0:0:
-#EXTINF:-1,HKSTV1
+#EXTINF:-1  group-title="香港台",HKSTV1
 #EXTVLCOPT:program=5
 http://192.168.31.72:8001/1:0:1:5:2:1:565B0D3:0:0:0:
-#EXTINF:-1,One TV
+#EXTINF:-1  group-title="香港台",One TV
 #EXTVLCOPT:program=768
 http://192.168.31.72:8001/1:0:1:300:2:1:565B0D3:0:0:0:
-#EXTINF:-1,HBO HD
+#EXTINF:-1  group-title="香港台",HBO HD
 #EXTVLCOPT:program=82
 http://192.168.31.72:8001/1:0:1:52:3:1:43A30AD:0:0:0::HBO HD
-#EXTINF:-1,NHK HD
+#EXTINF:-1  group-title="香港台",NHK HD
 #EXTVLCOPT:program=86
 http://192.168.31.72:8001/1:0:1:56:3:1:43A30AD:0:0:0:
-#EXTINF:-1,福克斯家庭影院HD
+#EXTINF:-1  group-title="香港台",福克斯家庭影院HD
 #EXTVLCOPT:program=70
 http://192.168.31.72:8001/1:0:1:46:2:1:43A3071:0:0:0::福克斯家庭影院HD
-#EXTINF:-1,福克斯动作电影HD
+#EXTINF:-1  group-title="香港台",福克斯动作电影HD
 #EXTVLCOPT:program=83
 http://192.168.31.72:8001/1:0:1:53:3:1:43A30AD:0:0:0::福克斯动作电影HD
-#EXTINF:-1,国家地理野生HD
+#EXTINF:-1  group-title="香港台",国家地理野生HD
 #EXTVLCOPT:program=76
 http://192.168.31.72:8001/1:0:1:4C:2:1:43A3071:0:0:0::国家地理野生HD
-#EXTINF:-1,高尔夫HD
+#EXTINF:-1  group-title="香港台",高尔夫HD
 #EXTVLCOPT:program=80
 http://192.168.31.72:8001/1:0:1:50:3:1:43A30AD:0:0:0::高尔夫HD
-#EXTINF:-1,探索频道HD
+#EXTINF:-1  group-title="香港台",探索频道HD
 #EXTVLCOPT:program=75
 http://192.168.31.72:8001/1:0:1:4B:2:1:43A3071:0:0:0::探索频道HD
-#EXTINF:-1,纬来日本HD
+#EXTINF:-1  group-title="香港台",纬来日本HD
 #EXTVLCOPT:program=73
 http://192.168.31.72:8001/1:0:1:49:2:1:43A3071:0:0:0::纬来日本HD
-#EXTINF:-1,古曲音乐HD
+#EXTINF:-1  group-title="香港台",古曲音乐HD
 #EXTVLCOPT:program=85
 http://192.168.31.72:8001/1:0:1:55:3:1:43A30AD:0:0:0::古曲音乐HD
-#EXTINF:-1,户外高清HD
+#EXTINF:-1  group-title="香港台",户外高清HD
 #EXTVLCOPT:program=71
 http://192.168.31.72:8001/1:0:1:47:2:1:43A3071:0:0:0::户外高清HD
-#EXTINF:-1,华纳娱乐HD
+#EXTINF:-1  group-title="香港台",华纳娱乐HD
 #EXTVLCOPT:program=81
 http://192.168.31.72:8001/1:0:1:51:3:1:43A30AD:0:0:0::华纳娱乐HD
-#EXTINF:-1,光影欧洲HD
+#EXTINF:-1  group-title="香港台",光影欧洲HD
 #EXTVLCOPT:program=84
 http://192.168.31.72:8001/1:0:1:54:3:1:43A30AD:0:0:0::光影欧洲HD
-#EXTINF:-1,福克斯体育1台HD
+#EXTINF:-1  group-title="香港台",福克斯体育1台HD
 #EXTVLCOPT:program=77
 http://192.168.31.72:8001/1:0:1:4D:2:1:43A3071:0:0:0::福克斯体育1台HD
-#EXTINF:-1,福克斯体育3台HD
+#EXTINF:-1  group-title="香港台",福克斯体育3台HD
 #EXTVLCOPT:program=78
 http://192.168.31.72:8001/1:0:1:4E:2:1:43A3071:0:0:0::福克斯体育3台HD
-#EXTINF:-1,Sports IIustrated HD
+#EXTINF:-1  group-title="香港台",Sports IIustrated HD
 #EXTVLCOPT:program=72
 http://192.168.31.72:8001/1:0:1:48:2:1:43A3071:0:0:0::Sports IIustrated HD
-#EXTINF:-1,GLOBAL SPORTS 2HD
+#EXTINF:-1  group-title="香港台",GLOBAL SPORTS 2HD
 #EXTVLCOPT:program=36
 http://192.168.31.72:8001/1:0:1:24:2:1:43A3071:0:0:0::GLOBAL SPORTS 2HD
-#EXTINF:-1,Sports IIustrated2 HD
+#EXTINF:-1  group-title="香港台",Sports IIustrated2 HD
 #EXTVLCOPT:program=74
 http://192.168.31.72:8001/1:0:1:4A:2:1:43A3071:0:0:0::Sports IIustrated2 HD
-#EXTINF:-1,FIGHT SPORTS HD
+#EXTINF:-1  group-title="香港台",FIGHT SPORTS HD
 #EXTVLCOPT:program=79
 http://192.168.31.72:8001/1:0:1:4F:3:1:43A30AD:0:0:0::FIGHT SPORTS HD
-#EXTINF:-1,AXN动作影视
+#EXTINF:-1  group-title="香港台",AXN动作影视
 #EXTVLCOPT:program=59
 http://192.168.31.72:8001/1:0:1:3B:2:1:43A3071:0:0:0::AXN动作影视
-#EXTINF:-1,东森戏剧
+#EXTINF:-1  group-title="香港台",东森戏剧
 #EXTVLCOPT:program=100
 http://192.168.31.72:8001/1:0:1:64:3:1:43A30AD:0:0:0::东森戏剧
-#EXTINF:-1,龙祥电影
+#EXTINF:-1  group-title="香港台",龙祥电影
 #EXTVLCOPT:program=101
 http://192.168.31.72:8001/1:0:1:65:3:1:43A30AD:0:0:0::龙祥电影
-#EXTINF:-1,天映经典电影
+#EXTINF:-1  group-title="香港台",天映经典电影
 #EXTVLCOPT:program=102
 http://192.168.31.72:8001/1:0:1:66:3:1:43A30AD:0:0:0::天映经典电影
-#EXTINF:-1,东森电影
+#EXTINF:-1  group-title="香港台",东森电影
 #EXTVLCOPT:program=103
 http://192.168.31.72:8001/1:0:1:67:3:1:43A30AD:0:0:0::东森电影
-#EXTINF:-1,湖南卫视
+#EXTINF:-1  group-title="香港台",湖南卫视
 #EXTVLCOPT:program=98
 http://192.168.31.72:8001/1:0:1:62:3:1:43A30AD:0:0:0::湖南卫视
-#EXTINF:-1,FOX菲律宾
+#EXTINF:-1  group-title="香港台",FOX菲律宾
 #EXTVLCOPT:program=12
 http://192.168.31.72:8001/1:0:1:C:1:1:43A31A7:0:0:0::FOX菲律宾
-#EXTINF:-1,莲花卫视
+#EXTINF:-1  group-title="香港台",莲花卫视
 #EXTVLCOPT:program=13
 http://192.168.31.72:8001/1:0:1:D:1:1:43A31A7:0:0:0::莲花卫视
-#EXTINF:-1,thrill惊悚电影
+#EXTINF:-1  group-title="香港台",thrill惊悚电影
 #EXTVLCOPT:program=14
 http://192.168.31.72:8001/1:0:1:E:1:1:43A31A7:0:0:0::thrill惊悚电影
-#EXTINF:-1,东森洋片
+#EXTINF:-1  group-title="香港台",东森洋片
 #EXTVLCOPT:program=15
 http://192.168.31.72:8001/1:0:1:F:1:1:43A31A7:0:0:0::东森洋片
-#EXTINF:-1,彭勃财经
+#EXTINF:-1  group-title="香港台",彭勃财经
 #EXTVLCOPT:program=51
 http://192.168.31.72:8001/1:0:1:33:2:1:43A3071:0:0:0::彭勃财经
-#EXTINF:-1,CNN美国有线电视
+#EXTINF:-1  group-title="香港台",CNN美国有线电视
 #EXTVLCOPT:program=49
 http://192.168.31.72:8001/1:0:1:31:2:1:43A3071:0:0:0::CNN美国有线电视
-#EXTINF:-1,BOOMERANG动漫
+#EXTINF:-1  group-title="香港台",BOOMERANG动漫
 #EXTVLCOPT:program=35
 http://192.168.31.72:8001/1:0:1:23:2:1:43A3071:0:0:0::BOOMERANG动漫
-#EXTINF:-1,CCTV9英文纪录
+#EXTINF:-1  group-title="香港台",CCTV9英文纪录
 #EXTVLCOPT:program=38
 http://192.168.31.72:8001/1:0:1:26:2:1:43A3071:0:0:0::CCTV9英文纪录
-#EXTINF:-1,德国电视台
+#EXTINF:-1  group-title="香港台",德国电视台
 #EXTVLCOPT:program=39
 http://192.168.31.72:8001/1:0:1:27:2:1:43A3071:0:0:0::德国电视台
-#EXTINF:-1,欧洲体育新闻
+#EXTINF:-1  group-title="香港台",欧洲体育新闻
 #EXTVLCOPT:program=52
 http://192.168.31.72:8001/1:0:1:34:2:1:43A3071:0:0:0::欧洲体育新闻
-#EXTINF:-1,法兰西24小时
+#EXTINF:-1  group-title="香港台",法兰西24小时
 #EXTVLCOPT:program=40
 http://192.168.31.72:8001/1:0:1:28:2:1:43A3071:0:0:0::法兰西24小时
-#EXTINF:-1,华纳娱乐
+#EXTINF:-1  group-title="香港台",华纳娱乐
 #EXTVLCOPT:program=46
 http://192.168.31.72:8001/1:0:1:2E:2:1:43A3071:0:0:0::华纳娱乐
-#EXTINF:-1,CINEMAX动作影视
+#EXTINF:-1  group-title="香港台",CINEMAX动作影视
 #EXTVLCOPT:program=47
 http://192.168.31.72:8001/1:0:1:2F:2:1:43A3071:0:0:0::CINEMAX动作影视
-#EXTINF:-1,今日俄罗斯
+#EXTINF:-1  group-title="香港台",今日俄罗斯
 #EXTVLCOPT:program=54
 http://192.168.31.72:8001/1:0:1:36:2:1:43A3071:0:0:0::今日俄罗斯
-#EXTINF:-1,福克斯电影台
+#EXTINF:-1  group-title="香港台",福克斯电影台
 #EXTVLCOPT:program=48
 http://192.168.31.72:8001/1:0:1:30:2:1:43A3071:0:0:0::福克斯电影台
-#EXTINF:-1,FOX频道
+#EXTINF:-1  group-title="香港台",FOX频道
 #EXTVLCOPT:program=45
 http://192.168.31.72:8001/1:0:1:2D:2:1:43A3071:0:0:0::FOX频道
-#EXTINF:-1,索尼频道
+#EXTINF:-1  group-title="香港台",索尼频道
 #EXTVLCOPT:program=57
 http://192.168.31.72:8001/1:0:1:39:2:1:43A3071:0:0:0::索尼频道
-#EXTINF:-1,国家地理频道
+#EXTINF:-1  group-title="香港台",国家地理频道
 #EXTVLCOPT:program=55
 http://192.168.31.72:8001/1:0:1:37:2:1:43A3071:0:0:0::国家地理频道
-#EXTINF:-1,历史频道
+#EXTINF:-1  group-title="香港台",历史频道
 #EXTVLCOPT:program=56
 http://192.168.31.72:8001/1:0:1:38:2:1:43A3071:0:0:0::历史频道
-#EXTINF:-1,CN动画
+#EXTINF:-1  group-title="香港台",CN动画
 #EXTVLCOPT:program=65
 http://192.168.31.72:8001/1:0:1:41:3:1:43A30AD:0:0:0::CN动画
-#EXTINF:-1,CCTV 4中文国际
+#EXTINF:-1  group-title="香港台",CCTV 4中文国际
 #EXTVLCOPT:program=99
 http://192.168.31.72:8001/1:0:1:63:3:1:43A30AD:0:0:0::CCTV 4中文国际
-#EXTINF:-1,中天新闻
+#EXTINF:-1  group-title="香港台",中天新闻
 #EXTVLCOPT:program=94
 http://192.168.31.72:8001/1:0:1:5E:3:1:43A30AD:0:0:0::中天新闻
-#EXTINF:-1,华视
+#EXTINF:-1  group-title="香港台",华视
 #EXTVLCOPT:program=95
 http://192.168.31.72:8001/1:0:1:5F:3:1:43A30AD:0:0:0::华视
-#EXTINF:-1,中视
+#EXTINF:-1  group-title="香港台",中视
 #EXTVLCOPT:program=88
 http://192.168.31.72:8001/1:0:1:58:3:1:43A30AD:0:0:0::中视
-#EXTINF:-1,东森新闻
+#EXTINF:-1  group-title="香港台",东森新闻
 #EXTVLCOPT:program=91
 http://192.168.31.72:8001/1:0:1:5B:3:1:43A30AD:0:0:0::东森新闻
-#EXTINF:-1,年代新闻
+#EXTINF:-1  group-title="香港台",年代新闻
 #EXTVLCOPT:program=92
 http://192.168.31.72:8001/1:0:1:5C:3:1:43A30AD:0:0:0::年代新闻
-#EXTINF:-1,民视新闻
+#EXTINF:-1  group-title="香港台",民视新闻
 #EXTVLCOPT:program=90
 http://192.168.31.72:8001/1:0:1:5A:3:1:43A30AD:0:0:0::民视新闻
-#EXTINF:-1,民视
+#EXTINF:-1  group-title="香港台",民视
 #EXTVLCOPT:program=89
 http://192.168.31.72:8001/1:0:1:59:3:1:43A30AD:0:0:0::民视
-#EXTINF:-1,福克斯体育
+#EXTINF:-1  group-title="香港台",福克斯体育
 #EXTVLCOPT:program=62
 http://192.168.31.72:8001/1:0:1:3E:3:1:43A30AD:0:0:0::福克斯体育
-#EXTINF:-1,福克斯体育2台
+#EXTINF:-1  group-title="香港台",福克斯体育2台
 #EXTVLCOPT:program=63
 http://192.168.31.72:8001/1:0:1:3F:3:1:43A30AD:0:0:0::福克斯体育2台
-#EXTINF:-1,尼克少儿
+#EXTINF:-1  group-title="香港台",尼克少儿
 #EXTVLCOPT:program=24
 http://192.168.31.72:8001/1:0:1:18:1:1:43A31A7:0:0:0::尼克少儿
-#EXTINF:-1,AMC
+#EXTINF:-1  group-title="香港台",AMC
 #EXTVLCOPT:program=16
 http://192.168.31.72:8001/1:0:1:10:1:1:43A31A7:0:0:0::AMC
-#EXTINF:-1,TVBS台湾
+#EXTINF:-1  group-title="香港台",TVBS台湾
 #EXTVLCOPT:program=93
 http://192.168.31.72:8001/1:0:1:5D:3:1:43A30AD:0:0:0::TVBS台湾
-#EXTINF:-1,探索科学
+#EXTINF:-1  group-title="香港台",探索科学
 #EXTVLCOPT:program=22
 http://192.168.31.72:8001/1:0:1:16:1:1:43A31A7:0:0:0::探索科学
-#EXTINF:-1,东方卫视
+#EXTINF:-1  group-title="香港台",东方卫视
 #EXTVLCOPT:program=97
 http://192.168.31.72:8001/1:0:1:61:3:1:43A30AD:0:0:0::东方卫视
-#EXTINF:-1,台视
+#EXTINF:-1  group-title="香港台",台视
 #EXTVLCOPT:program=87
 http://192.168.31.72:8001/1:0:1:57:3:1:43A30AD:0:0:0::台视
-#EXTINF:-1,凤凰中文
+#EXTINF:-1  group-title="香港台",凤凰中文
 #EXTVLCOPT:program=96
 http://192.168.31.72:8001/1:0:1:60:3:1:43A30AD:0:0:0::凤凰中文
-#EXTINF:-1,动物星球
+#EXTINF:-1  group-title="香港台",动物星球
 #EXTVLCOPT:program=23
 http://192.168.31.72:8001/1:0:1:17:1:1:43A31A7:0:0:0::动物星球
-#EXTINF:-1,ANIMAX动漫
+#EXTINF:-1  group-title="香港台",ANIMAX动漫
 #EXTVLCOPT:program=25
 http://192.168.31.72:8001/1:0:1:19:1:1:43A31A7:0:0:0::ANIMAX动漫
-#EXTINF:-1,V音乐台
+#EXTINF:-1  group-title="香港台",V音乐台
 #EXTVLCOPT:program=29
 http://192.168.31.72:8001/1:0:1:1D:1:1:43A31A7:0:0:0::V音乐台
-#EXTINF:-1,CNN（菲律宾）
+#EXTINF:-1  group-title="香港台",CNN（菲律宾）
 #EXTVLCOPT:program=3
 http://192.168.31.72:8001/1:0:1:3:1:1:43A31A7:0:0:0::CNN（菲律宾）
-#EXTINF:-1,DAYSTAR TV
+#EXTINF:-1  group-title="香港台",DAYSTAR TV
 #EXTVLCOPT:program=32
 http://192.168.31.72:8001/1:0:1:20:1:1:43A31A7:0:0:0:
-#EXTINF:-1,福克斯新闻
+#EXTINF:-1  group-title="香港台",福克斯新闻
 #EXTVLCOPT:program=27
 http://192.168.31.72:8001/1:0:1:1B:1:1:43A31A7:0:0:0::福克斯新闻
-#EXTINF:-1,尼克少儿
+#EXTINF:-1  group-title="香港台",尼克少儿
 #EXTVLCOPT:program=64
 http://192.168.31.72:8001/1:0:1:40:3:1:43A30AD:0:0:0::尼克少儿
-#EXTINF:-1,KIX香港电影
+#EXTINF:-1  group-title="香港台",KIX香港电影
 #EXTVLCOPT:program=17
 http://192.168.31.72:8001/1:0:1:11:1:1:43A31A7:0:0:0::KIX香港电影
-#EXTINF:-1,ZEESINE
+#EXTINF:-1  group-title="香港台",ZEESINE
 #EXTVLCOPT:program=18
 http://192.168.31.72:8001/1:0:1:12:1:1:43A31A7:0:0:0::ZEESINE
-#EXTINF:-1,I24 NEWS
+#EXTINF:-1  group-title="香港台",I24 NEWS
 #EXTVLCOPT:program=53
 http://192.168.31.72:8001/1:0:1:35:2:1:43A3071:0:0:0:
-#EXTINF:-1,LIFETIME
+#EXTINF:-1  group-title="香港台",LIFETIME
 #EXTVLCOPT:program=41
 http://192.168.31.72:8001/1:0:1:29:2:1:43A3071:0:0:0:
-#EXTINF:-1,EWTN
+#EXTINF:-1  group-title="香港台",EWTN
 #EXTVLCOPT:program=44
 http://192.168.31.72:8001/1:0:1:2C:2:1:43A3071:0:0:0:
-#EXTINF:-1,ETC
+#EXTINF:-1  group-title="香港台",ETC
 #EXTVLCOPT:program=42
 http://192.168.31.72:8001/1:0:1:2A:2:1:43A3071:0:0:0:
-#EXTINF:-1,FOX LIFE
+#EXTINF:-1  group-title="香港台",FOX LIFE
 #EXTVLCOPT:program=60
 http://192.168.31.72:8001/1:0:1:3C:2:1:43A3071:0:0:0:
-#EXTINF:-1,CHANNEL NEWS ASIA
+#EXTINF:-1  group-title="香港台",CHANNEL NEWS ASIA
 #EXTVLCOPT:program=50
 http://192.168.31.72:8001/1:0:1:32:2:1:43A3071:0:0:0:
-#EXTINF:-1,TVE
+#EXTINF:-1  group-title="香港台",TVE
 #EXTVLCOPT:program=37
 http://192.168.31.72:8001/1:0:1:25:2:1:43A3071:0:0:0:
-#EXTINF:-1,UNTV
+#EXTINF:-1  group-title="香港台",UNTV
 #EXTVLCOPT:program=43
 http://192.168.31.72:8001/1:0:1:2B:2:1:43A3071:0:0:0:
-#EXTINF:-1,2ND AVENUE
+#EXTINF:-1  group-title="香港台",2ND AVENUE
 #EXTVLCOPT:program=58
 http://192.168.31.72:8001/1:0:1:3A:2:1:43A3071:0:0:0:
-#EXTINF:-1,INC
+#EXTINF:-1  group-title="香港台",INC
 #EXTVLCOPT:program=68
 http://192.168.31.72:8001/1:0:1:44:3:1:43A30AD:0:0:0:
-#EXTINF:-1,JACK TV
+#EXTINF:-1  group-title="香港台",JACK TV
 #EXTVLCOPT:program=61
 http://192.168.31.72:8001/1:0:1:3D:3:1:43A30AD:0:0:0:
-#EXTINF:-1,ARIRANG
+#EXTINF:-1  group-title="香港台",ARIRANG
 #EXTVLCOPT:program=69
 http://192.168.31.72:8001/1:0:1:45:3:1:43A30AD:0:0:0:
-#EXTINF:-1,RAI ITALIA
+#EXTINF:-1  group-title="香港台",RAI ITALIA
 #EXTVLCOPT:program=66
 http://192.168.31.72:8001/1:0:1:42:3:1:43A30AD:0:0:0:
-#EXTINF:-1,TV5 MONDE
+#EXTINF:-1  group-title="香港台",TV5 MONDE
 #EXTVLCOPT:program=67
 http://192.168.31.72:8001/1:0:1:43:3:1:43A30AD:0:0:0:
-#EXTINF:-1,ABS-CBN
+#EXTINF:-1  group-title="香港台",ABS-CBN
 #EXTVLCOPT:program=2
 http://192.168.31.72:8001/1:0:1:2:1:1:43A31A7:0:0:0:
-#EXTINF:-1,AKSYON TV
+#EXTINF:-1  group-title="香港台",AKSYON TV
 #EXTVLCOPT:program=10
 http://192.168.31.72:8001/1:0:1:A:1:1:43A31A7:0:0:0:
-#EXTINF:-1,ALJAZEERA
+#EXTINF:-1  group-title="香港台",ALJAZEERA
 #EXTVLCOPT:program=26
 http://192.168.31.72:8001/1:0:1:1A:1:1:43A31A7:0:0:0:
-#EXTINF:-1,GLOBAL SPORTS 1
+#EXTINF:-1  group-title="香港台",GLOBAL SPORTS 1
 #EXTVLCOPT:program=30
 http://192.168.31.72:8001/1:0:1:1E:1:1:43A31A7:0:0:0:
-#EXTINF:-1,GPC
+#EXTINF:-1  group-title="香港台",GPC
 #EXTVLCOPT:program=11
 http://192.168.31.72:8001/1:0:1:B:1:1:43A31A7:0:0:0::GPC
-#EXTINF:-1,GMA 7
+#EXTINF:-1  group-title="香港台",GMA 7
 #EXTVLCOPT:program=7
 http://192.168.31.72:8001/1:0:1:7:1:1:43A31A7:0:0:0:
-#EXTINF:-1,GNN
+#EXTINF:-1  group-title="香港台",GNN
 #EXTVLCOPT:program=1
 http://192.168.31.72:8001/1:0:1:1:1:1:43A31A7:0:0:0:
-#EXTINF:-1,HITS
+#EXTINF:-1  group-title="香港台",HITS
 #EXTVLCOPT:program=19
 http://192.168.31.72:8001/1:0:1:13:1:1:43A31A7:0:0:0:
-#EXTINF:-1,HOPE CHANNEL
+#EXTINF:-1  group-title="香港台",HOPE CHANNEL
 #EXTVLCOPT:program=33
 http://192.168.31.72:8001/1:0:1:21:1:1:43A31A7:0:0:0:
-#EXTINF:-1,KNOWLEDGE CHANNEL
+#EXTINF:-1  group-title="香港台",KNOWLEDGE CHANNEL
 #EXTVLCOPT:program=34
 http://192.168.31.72:8001/1:0:1:22:1:1:43A31A7:0:0:0:
-#EXTINF:-1,NET 25
+#EXTINF:-1  group-title="香港台",NET 25
 #EXTVLCOPT:program=9
 http://192.168.31.72:8001/1:0:1:9:1:1:43A31A7:0:0:0:
-#EXTINF:-1,NEWS TV
+#EXTINF:-1  group-title="香港台",NEWS TV
 #EXTVLCOPT:program=6
 http://192.168.31.72:8001/1:0:1:6:1:1:43A31A7:0:0:0:
-#EXTINF:-1,PINOY EXTREME
+#EXTINF:-1  group-title="香港台",PINOY EXTREME
 #EXTVLCOPT:program=28
 http://192.168.31.72:8001/1:0:1:1C:1:1:43A31A7:0:0:0:
-#EXTINF:-1,PTV 4
+#EXTINF:-1  group-title="香港台",PTV 4
 #EXTVLCOPT:program=4
 http://192.168.31.72:8001/1:0:1:4:1:1:43A31A7:0:0:0:
-#EXTINF:-1,QYOU
+#EXTINF:-1  group-title="香港台",QYOU
 #EXTVLCOPT:program=21
 http://192.168.31.72:8001/1:0:1:15:1:1:43A31A7:0:0:0:
-#EXTINF:-1,RHTV
+#EXTINF:-1  group-title="香港台",RHTV
 #EXTVLCOPT:program=31
 http://192.168.31.72:8001/1:0:1:1F:1:1:43A31A7:0:0:0:
-#EXTINF:-1,SPORTS + ACTION
+#EXTINF:-1  group-title="香港台",SPORTS + ACTION
 #EXTVLCOPT:program=8
 http://192.168.31.72:8001/1:0:1:8:1:1:43A31A7:0:0:0:
-#EXTINF:-1,TRU TV
+#EXTINF:-1  group-title="香港台",TRU TV
 #EXTVLCOPT:program=20
 http://192.168.31.72:8001/1:0:1:14:1:1:43A31A7:0:0:0:
-#EXTINF:-1,TV5
+#EXTINF:-1  group-title="香港台",TV5
 #EXTVLCOPT:program=5
 http://192.168.31.72:8001/1:0:1:5:1:1:43A31A7:0:0:0:
-#EXTINF:-1,安徽国际
+#EXTINF:-1  group-title="香港台",安徽国际
 #EXTVLCOPT:program=20
 http://192.168.31.72:8001/1:0:1:14:B:1:565B1B1:0:0:0::安徽国际
-#EXTINF:-1,北京国际
+#EXTINF:-1  group-title="香港台",北京国际
 #EXTVLCOPT:program=7
 http://192.168.31.72:8001/1:0:1:7:B:1:565B1B1:0:0:0::北京国际
-#EXTINF:-1,CCTV-4中文国际
+#EXTINF:-1  group-title="香港台",CCTV-4中文国际
 #EXTVLCOPT:program=1
 http://192.168.31.72:8001/1:0:1:1:B:1:565B1B1:0:0:0::CCTV-4中文国际
-#EXTINF:-1,中国环球电视网新闻频道
+#EXTINF:-1  group-title="香港台",中国环球电视网新闻频道
 #EXTVLCOPT:program=5
 http://192.168.31.72:8001/1:0:1:5:B:1:565B1B1:0:0:0::中国环球电视网新闻频道
-#EXTINF:-1,CCTV-OPERA
+#EXTINF:-1  group-title="香港台",CCTV-OPERA
 #EXTVLCOPT:program=3
 http://192.168.31.72:8001/1:0:1:3:B:1:565B1B1:0:0:0:
-#EXTINF:-1,CGTN
+#EXTINF:-1  group-title="香港台",CGTN
 #EXTVLCOPT:program=2
 http://192.168.31.72:8001/1:0:1:2:B:1:565B1B1:0:0:0:
-#EXTINF:-1,中国环球电视网纪录频道
+#EXTINF:-1  group-title="香港台",中国环球电视网纪录频道
 #EXTVLCOPT:program=6
 http://192.168.31.72:8001/1:0:1:6:B:1:565B1B1:0:0:0::中国环球电视网纪录频道
-#EXTINF:-1,黄河电视台
+#EXTINF:-1  group-title="香港台",黄河电视台
 #EXTVLCOPT:program=18
 http://192.168.31.72:8001/1:0:1:12:B:1:565B1B1:0:0:0::黄河电视台
-#EXTINF:-1,重庆国际
+#EXTINF:-1  group-title="香港台",重庆国际
 #EXTVLCOPT:program=16
 http://192.168.31.72:8001/1:0:1:10:B:1:565B1B1:0:0:0::重庆国际
-#EXTINF:-1,中国电影频道
+#EXTINF:-1  group-title="香港台",中国电影频道
 #EXTVLCOPT:program=4
 http://192.168.31.72:8001/1:0:1:4:B:1:565B1B1:0:0:0::中国电影频道
-#EXTINF:-1,Dragon TV
+#EXTINF:-1  group-title="香港台",Dragon TV
 #EXTVLCOPT:program=8
 http://192.168.31.72:8001/1:0:1:8:B:1:565B1B1:0:0:0:
-#EXTINF:-1,海峡卫视
+#EXTINF:-1  group-title="香港台",海峡卫视
 #EXTVLCOPT:program=11
 http://192.168.31.72:8001/1:0:1:B:B:1:565B1B1:0:0:0::海峡卫视
-#EXTINF:-1,河南国际
+#EXTINF:-1  group-title="香港台",河南国际
 #EXTVLCOPT:program=19
 http://192.168.31.72:8001/1:0:1:13:B:1:565B1B1:0:0:0::河南国际
-#EXTINF:-1,湖南国际
+#EXTINF:-1  group-title="香港台",湖南国际
 #EXTVLCOPT:program=10
 http://192.168.31.72:8001/1:0:1:A:B:1:565B1B1:0:0:0::湖南国际
-#EXTINF:-1,江苏国际
+#EXTINF:-1  group-title="香港台",江苏国际
 #EXTVLCOPT:program=9
 http://192.168.31.72:8001/1:0:1:9:B:1:565B1B1:0:0:0::江苏国际
-#EXTINF:-1,深圳国际
+#EXTINF:-1  group-title="香港台",深圳国际
 #EXTVLCOPT:program=14
 http://192.168.31.72:8001/1:0:1:E:B:1:565B1B1:0:0:0::深圳国际
-#EXTINF:-1,四川国际
+#EXTINF:-1  group-title="香港台",四川国际
 #EXTVLCOPT:program=23
 http://192.168.31.72:8001/1:0:1:17:B:1:565B1B1:0:0:0::四川国际
-#EXTINF:-1,泰山电视台
+#EXTINF:-1  group-title="香港台",泰山电视台
 #EXTVLCOPT:program=17
 http://192.168.31.72:8001/1:0:1:11:B:1:565B1B1:0:0:0::泰山电视台
-#EXTINF:-1,天津国际
+#EXTINF:-1  group-title="香港台",天津国际
 #EXTVLCOPT:program=15
 http://192.168.31.72:8001/1:0:1:F:B:1:565B1B1:0:0:0::天津国际
-#EXTINF:-1,南方电视台
+#EXTINF:-1  group-title="香港台",南方电视台
 #EXTVLCOPT:program=13
 http://192.168.31.72:8001/1:0:1:D:B:1:565B1B1:0:0:0::南方电视台
-#EXTINF:-1,厦门国际
+#EXTINF:-1  group-title="香港台",厦门国际
 #EXTVLCOPT:program=12
 http://192.168.31.72:8001/1:0:1:C:B:1:565B1B1:0:0:0::厦门国际
-#EXTINF:-1,云南国际
+#EXTINF:-1  group-title="香港台",云南国际
 #EXTVLCOPT:program=22
 http://192.168.31.72:8001/1:0:1:16:B:1:565B1B1:0:0:0::云南国际
-#EXTINF:-1,浙江国际
+#EXTINF:-1  group-title="香港台",浙江国际
 #EXTVLCOPT:program=21
 http://192.168.31.72:8001/1:0:1:15:B:1:565B1B1:0:0:0::浙江国际
-#EXTINF:-1,信大MTV HD
+#EXTINF:-1  group-title="香港台",信大MTV HD
 #EXTVLCOPT:program=8
 http://192.168.31.72:8001/1:0:1:8:6:1:565B006:0:0:0::信大MTV HD
